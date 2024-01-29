@@ -9,10 +9,10 @@
 void menu_acceuil(){
 
 
-    printf("--------------------------\n");
-    printf("       STONECODE v01      \n");
-    printf("-----      MENU      -----\n");
-    printf("1. Ouvrir un compte\n");
+    printf("---------------------------------------\n");
+    printf("       l'univers des mots croisés      \n");
+    printf("-----           MENU      -----\n");
+    printf("1. debuter une partie en mode invité\n");
     printf("2. Login\n");
     printf("3. Contacter un administrateur\n");
     printf("4. Reglages\n");
